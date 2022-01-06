@@ -1,6 +1,6 @@
 name = "SCIP_PaPILO_jll"
 uuid = "fc9abe76-a5e6-5fed-b0b7-a12f309cf031"
-version = "0.1.0+0"
+version = "0.1.0+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
