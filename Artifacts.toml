@@ -1,221 +1,221 @@
 [[SCIP_PaPILO]]
 arch = "aarch64"
-git-tree-sha1 = "daa141fe2f2c2832f60110dc25fb8cebddee3292"
+git-tree-sha1 = "114bdd6dc5f22c8bd2dd10a732edd65190efe569"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "1b35bc0b824d176fa6cd84def6aed172b0dc2a78122f99c9d424487eb468c1b0"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "70c0547757b6006c2d24d3f406ff3f46c9d437c929f3d30f031924b38fcea7bc"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[SCIP_PaPILO]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2dc2fd62141f8b4960466cdc42acb7e4c3bda70d"
+git-tree-sha1 = "91279cb724dc911cef90e3e1a622682bfa3551b2"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "7669d3aeed99dbea926eeac42b733c7050b59b2efb4f4db90c983abb69bb4831"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.aarch64-linux-gnu-libgfortran4-cxx03.tar.gz"
+    sha256 = "5d8e4c0e241ebffab2645f06225d07a1b9d979db8b85ec712f7ab957a4e1a26f"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.aarch64-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[SCIP_PaPILO]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a25cb2e583d407d6523ddd5fda2de106dbe20cea"
+git-tree-sha1 = "fbbebab3c363ecb25db8227640bec72c3680f9a1"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "23826821116f0b1d18b45d931a38493abcffe61710258f0eb4372edb60324f24"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "b3cd1324b79e563ad8f0881b6d5436f358c1db3b5fe56175501b9da5f0e0b5b5"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[SCIP_PaPILO]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d80734668bdb53666d5168d3acf8ab6f59bda141"
+git-tree-sha1 = "969c9e245c9118f16443ba41ffe3aa88dbe621af"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "8136357a3a283b06f2157059335f2d0279ff5caca4ca63554526b4e9d3c094c4"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "7b8c67466abea2011c8a63a17911c64e4252684b6cf7b04023ed5306489be0b9"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[SCIP_PaPILO]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3ba7fc08f580e6f73487e33ecfcb387f4820cb8b"
+git-tree-sha1 = "25530d3fa2f018c4b286746fc3c1668c5f7618df"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "fc4619dca544299080a34ce90b92c7051db2c2096bbe663411b5cf778dbf1382"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "48af7bbfeff7c77f854892d47008434db961544b9fdbc729e547e16f9dd05519"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[SCIP_PaPILO]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6dd233078c583f28ec159fae1a18177091ba573b"
+git-tree-sha1 = "03f44eb5765eaa24cf84ad4020e2a40600320256"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "c30793b3925bab6397aa3f21c4a4559a3ec3890859854667c593ef127b5759ba"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.i686-linux-gnu-libgfortran4-cxx03.tar.gz"
+    sha256 = "bb0f1abc0e6e065dd561ae11af22c50da2be516b0769f2865deae40f60444e73"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.i686-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[SCIP_PaPILO]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2c44ac04d11d113975f8d027ef0d53e552f5e4ba"
+git-tree-sha1 = "f8854ea90cc0137b9d321fe25160775a35ad5502"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "3ba9aa3e0d6ea7420b2bccc73ff4e2179c1fed7ff97e0ecb7fad6a8568830f84"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "9573abe5daca1b583db24cfd8ec01e05b8898ba6e5e178afa5c9b703a9489b26"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[SCIP_PaPILO]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2c770999bd3c528176b6fd32a428130e4dee494f"
+git-tree-sha1 = "98cb775614a35f939a94b72f3ed3c065c42a3669"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "56a7ee40b1d3816d3d3e4da4dea9ce31b8d5a31ad7d6af36c092a3a85e3ce564"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "0200272302ac9b005f3eabd6dab949e714af4435293c8d5962645968c1de21e4"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[SCIP_PaPILO]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5162b619eaeaffed91a73c8b22630bec055ff57a"
+git-tree-sha1 = "0ef3205269ac28af81d7b55d5a38d8f9bab0f324"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "37c802d573da003b0a34ca8e64f95921bb062703fd4597f546ba558d861cfeda"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "825000f833a355302df6b7ff0707d6fdc96b218057ac399df283870caf5c479a"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[SCIP_PaPILO]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7d205c3e78d8efaa9fa770db7e2f662242ccf866"
+git-tree-sha1 = "5e0739771c246fc4a27edeac8974874ca7bbde64"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "554ba58d02e4d15c0f5120edd65fb9ae392eaf1902e934faa67b04ed12e3795d"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.powerpc64le-linux-gnu-libgfortran4-cxx03.tar.gz"
+    sha256 = "7ba2dab61380f085fd35592b7dd77c2b0e28f666db802d491b3b8f2049170333"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.powerpc64le-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[SCIP_PaPILO]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4a8ec88acf3dfc306657a9b203288e1d4dc0fd58"
+git-tree-sha1 = "1dffa034c21857470cf17417886ca519e8919ab3"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "3419c0078054d320a13363ab39887b8e0a73aa7edd6fe4b5177bda62de22d4b0"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.powerpc64le-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "a74a478e8e52e42591ddc1e7d617cb79284c30038754d125e560db7a11dca4ce"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.powerpc64le-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[SCIP_PaPILO]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "62d19d0cd661e4f6007ba5c6d13da63178122f31"
+git-tree-sha1 = "070b073b9c108742f5f08e39d381579f4cf7ae61"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "fefe1b36488fba5515d84ca496b233db543f8712d7959407a45fa8570ff4864e"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "7d2eb54b19ed2088162db38138f93e623e69ab5b2cf9d1e65a96a562405f0e3c"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[SCIP_PaPILO]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cfcb3f043da6a84a7e0e5533fb697f327c2c7411"
+git-tree-sha1 = "450034f3612fe30d8922910f82331d17266f9963"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "298fddccbca937bf6c80ead70c6f9dae0d0789971007a965bd720604c6aae775"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "6254a734019ae6f30acf676ddf18d981431d43b5efea46193e831d13e2f8c926"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[SCIP_PaPILO]]
 arch = "x86_64"
-git-tree-sha1 = "eaf60d4f34d89cb55f643dce3ab2c2985135e982"
+git-tree-sha1 = "249e53b6639c24b83cfa4925c39c8e6b40db193b"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "e545ef19e662edd3e4dd2a6292dff2bda4f8c7adef2f9b820e20fae22d56ed7d"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "af97ea1527e8095a25de22bf0400170900eb43ef4b2cc59bd433b94b7b6073da"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[SCIP_PaPILO]]
 arch = "x86_64"
-git-tree-sha1 = "980ba29b707577a2b0808c8a6126f1a6a1324253"
+git-tree-sha1 = "129f639de76e94b27063a4eb767e2155bdec0ce5"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "8cc03e6ead437ae006e5265d2c56a342982d68e2e76561caa4c9b012b6ab3d2b"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "9f927de3be93827c4a8ab5141a069190c8bbc9a0b3b263c687eebcc8510bd2dc"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[SCIP_PaPILO]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4794615423cf976ac5e014f8c0b75c494cdf22b0"
+git-tree-sha1 = "ab93ccdc8624d115773caa4c2575e9e54dfa5098"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "edd092a3b67cb09cab3538d640ad07685bd5c1ee68b310ae4a4a828fae73d4df"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
+    sha256 = "91060da23d527e33b87b32c2b6228d141fad1d9131bacd32eee831b412847d47"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[SCIP_PaPILO]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a545911266b0db69923e47c977bac01260c5bc2f"
+git-tree-sha1 = "183927ed0b40f233e8f59aa43ec7e482014b7ef5"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "687a35182d1721af87976406d8cbd9349caca78d8330526bd73c83171fcf5b0d"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "2e09a0938a5ce748d72b434e2b342aa8da883451269fefac1f2335ece585b5ab"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[SCIP_PaPILO]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8ba5a2ac747229c2ac8441a5162474e9a0b17a26"
+git-tree-sha1 = "ef8ce598163fc888e8ebd761b11727622bb40dc2"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "ffe5de1093aea90f7d50ba3f63abb9db3c3801791f9d1ec05d34cf17edf18a8f"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "8a09e3de1203e185936f0c1989535b4ae074bddb1793d48160b8e746f388dccb"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[SCIP_PaPILO]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6b82a67b26d1a084dcb541a9fe5e6c9946040e5d"
+git-tree-sha1 = "40607d2b2fdd502f6da39eecbf431495025c4f11"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "23e92df5221473ba1f39a30b8fd59797620aa63962293a8d82984c6e63ba3492"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "0a5091698eb2eaa939eaf553bfeb2aa1d478340edf6270bd995486fdd84bdeca"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[SCIP_PaPILO]]
 arch = "x86_64"
-git-tree-sha1 = "cd3e448a95df7a6bb2d1afca3c5f5c31ecbb3d30"
+git-tree-sha1 = "e6d4bcc50daaba01b7255e039af6f457ce54b6b2"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "cc6f1cdb67cb3505edc3bafdccdeb5150a965ad93534d39f76c303a55a581ee5"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "1c303499ecda0310b0df2e81dea9ec057847e9eefb290dc30ef8a4c2176215a4"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[SCIP_PaPILO]]
 arch = "x86_64"
-git-tree-sha1 = "ae24d7e576a5d049e2a710c12cf61d583b1ea05b"
+git-tree-sha1 = "e7b216d8e3c6a5778023eba805338536f7acaa7d"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[SCIP_PaPILO.download]]
-    sha256 = "99bfce4b8f0fa5dab74293116fd30f530f2c47647043c1bb9df1afc3f028cd6b"
-    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+1/SCIP_PaPILO.v0.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "d1cb59339f6957880d2f6da80fb88c72ceeb53630d57c21dc4a522c4585041df"
+    url = "https://github.com/JuliaBinaryWrappers/SCIP_PaPILO_jll.jl/releases/download/SCIP_PaPILO-v0.1.0+2/SCIP_PaPILO.v0.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
