@@ -7,7 +7,7 @@ using Bzip2_jll
 using CompilerSupportLibraries_jll
 using GMP_jll
 using Ipopt_jll
-using OpenBLAS_jll
+using OpenBLAS32_jll
 using oneTBB_jll
 using Readline_jll
 using Zlib_jll
@@ -16,7 +16,7 @@ JLLWrappers.@declare_library_product(libscip, "@rpath/libscip.8.0.dylib")
 JLLWrappers.@declare_executable_product(papilo)
 JLLWrappers.@declare_executable_product(scip)
 function __init__()
-    JLLWrappers.@generate_init_header(bliss_jll, boost_jll, Bzip2_jll, CompilerSupportLibraries_jll, GMP_jll, Ipopt_jll, OpenBLAS_jll, oneTBB_jll, Readline_jll, Zlib_jll)
+    JLLWrappers.@generate_init_header(bliss_jll, boost_jll, Bzip2_jll, CompilerSupportLibraries_jll, GMP_jll, Ipopt_jll, OpenBLAS32_jll, oneTBB_jll, Readline_jll, Zlib_jll)
     JLLWrappers.@init_library_product(
         libscip,
         "lib/libscip.8.0.dylib",
