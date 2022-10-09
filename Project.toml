@@ -1,6 +1,6 @@
 name = "SCIP_PaPILO_jll"
 uuid = "fc9abe76-a5e6-5fed-b0b7-a12f309cf031"
-version = "800.0.200+0"
+version = "800.0.200+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
@@ -25,6 +25,6 @@ boost_jll = "=1.76.0"
 GMP_jll = "6.2.0"
 Bzip2_jll = "1.0.8"
 oneTBB_jll = "2021.4.1"
-Ipopt_jll = "=300.1400.403"
+Ipopt_jll = "=300.1400.400"
 OpenBLAS32_jll = "0.3.10"
 bliss_jll = "=0.77.0"
