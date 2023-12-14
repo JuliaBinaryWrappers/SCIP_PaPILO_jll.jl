@@ -1,6 +1,6 @@
 name = "SCIP_PaPILO_jll"
 uuid = "fc9abe76-a5e6-5fed-b0b7-a12f309cf031"
-version = "800.0.401+0"
+version = "800.100.0+0"
 
 [deps]
 GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
@@ -18,12 +18,14 @@ CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
 bliss_jll = "508c9074-7a14-5c94-9582-3d4bc1871065"
 
 [compat]
-JLLWrappers = "1.2.0"
-julia = "1.6"
-boost_jll = "=1.79.0"
 GMP_jll = "6.2.1"
-Bzip2_jll = "1.0.8"
-oneTBB_jll = "2021.8.0"
-Ipopt_jll = "=300.1400.1302"
+Libdl = "1"
 OpenBLAS32_jll = "0.3.10"
+Ipopt_jll = "=300.1400.1302"
+boost_jll = "=1.79.0"
+JLLWrappers = "1.2.0"
+oneTBB_jll = "2021.8.0"
+Bzip2_jll = "1.0.8"
+Artifacts = "1"
+julia = "1.6"
 bliss_jll = "=0.77.0"
