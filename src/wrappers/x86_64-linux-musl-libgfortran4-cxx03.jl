@@ -12,7 +12,7 @@ using oneTBB_jll
 using Readline_jll
 using Zlib_jll
 JLLWrappers.@generate_wrapper_header("SCIP_PaPILO")
-JLLWrappers.@declare_library_product(libscip, "libscip.so.9.0")
+JLLWrappers.@declare_library_product(libscip, "libscip.so.9.2")
 JLLWrappers.@declare_executable_product(papilo)
 JLLWrappers.@declare_executable_product(scip)
 function __init__()
