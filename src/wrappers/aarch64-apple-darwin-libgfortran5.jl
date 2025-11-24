@@ -7,19 +7,20 @@ using Bzip2_jll
 using CompilerSupportLibraries_jll
 using GMP_jll
 using Ipopt_jll
+using MPFR_jll
 using OpenBLAS32_jll
 using oneTBB_jll
 using Readline_jll
 using Zlib_jll
 JLLWrappers.@generate_wrapper_header("SCIP_PaPILO")
-JLLWrappers.@declare_library_product(libscip, "@rpath/libscip.9.2.dylib")
+JLLWrappers.@declare_library_product(libscip, "@rpath/libscip.10.0.dylib")
 JLLWrappers.@declare_executable_product(papilo)
 JLLWrappers.@declare_executable_product(scip)
 function __init__()
-    JLLWrappers.@generate_init_header(bliss_jll, boost_jll, Bzip2_jll, CompilerSupportLibraries_jll, GMP_jll, Ipopt_jll, OpenBLAS32_jll, oneTBB_jll, Readline_jll, Zlib_jll)
+    JLLWrappers.@generate_init_header(bliss_jll, boost_jll, Bzip2_jll, CompilerSupportLibraries_jll, GMP_jll, Ipopt_jll, MPFR_jll, OpenBLAS32_jll, oneTBB_jll, Readline_jll, Zlib_jll)
     JLLWrappers.@init_library_product(
         libscip,
-        "lib/libscip.9.2.dylib",
+        "lib/libscip.10.0.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
