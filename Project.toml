@@ -1,6 +1,6 @@
 name = "SCIP_PaPILO_jll"
 uuid = "fc9abe76-a5e6-5fed-b0b7-a12f309cf031"
-version = "1000.0.0+0"
+version = "1000.0.1+0"
 
 [deps]
 GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
@@ -29,5 +29,5 @@ JLLWrappers = "1.7.0"
 oneTBB_jll = "2022.0.0"
 Bzip2_jll = "1.0.9"
 Artifacts = "< 0.0.1, 1"
-julia = "1.6"
+julia = "1.9"
 bliss_jll = "=0.77.0"
